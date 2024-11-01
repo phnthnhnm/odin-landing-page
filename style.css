@@ -11,8 +11,6 @@ section {
   padding-right: 150px;
 }
 
-/* Header */
-
 header {
   display: flex;
   justify-content: space-between;
@@ -41,8 +39,6 @@ section.hero {
   background-color: #1f2937;
   color: white;
 }
-
-/* Hero */
 
 section.hero {
   display: flex;
@@ -81,8 +77,6 @@ div.hero-left > button {
   background-color: #3882f6;
   color: white;
 }
-
-/* Random Information */
 
 section.random-info {
   display: flex;
@@ -130,8 +124,6 @@ div.info > p {
   border-radius: 10px;
 }
 
-/* Quote */
-
 section#quote-section {
   padding-top: 100px;
   background-color: #e5e7eb;
@@ -156,7 +148,6 @@ div.quote-container > p:last-child {
   font-weight: 700;
 }
 
-/* Call to Action */
 section.action-container {
   padding-top: 100px;
   padding-bottom: 100px;
@@ -188,8 +179,6 @@ div.action-elements > button {
   border-radius: 5px;
   padding: 0px 30px;
 }
-
-/* Footer */
 
 footer {
   display: flex;
